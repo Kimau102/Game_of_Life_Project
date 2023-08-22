@@ -1,0 +1,46 @@
+#canvas-container {
+    margin-left: 50px;
+    margin-top: 50px;
+    margin-right: 50px;
+}
+.container {
+    margin-top: 10px;
+}
+.btn, btn-secondary, btn-sm {
+    margin-left: 5px;
+    margin-right: 5px;
+}
+.text-center {
+    display: flex;
+    justify-content: center;
+    margin: 5px;
+    padding: 3px;
+}
+.text-center div {
+    height: 100px;
+    margin: 20px;
+}
+#divGameOfLife div{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+#divDancingMachine div{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+.bgcolor {
+    background: rgb(34,193,195);
+    background: linear-gradient(0deg, rgba(34,193,195,1) 0%, rgba(45,253,251,0.6979166666666667) 100%);
+}
+.fixbtn {
+    display: flex;
+    position: fixed;
+    right: 10px;
+    bottom: 10px;
+}
+.tab-content {
+    padding-left: 20px;
+    padding-top: 20px;
+}
